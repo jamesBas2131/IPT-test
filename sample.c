@@ -1,7 +1,7 @@
 #include <studio.h>
-
-int main() {
+int main(){ 
+	printf(" Adonis Virtudazo");
 	printf("Im LJ");
-
+  return 0;
 } 
 
